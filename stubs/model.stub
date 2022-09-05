@@ -1,0 +1,15 @@
+<?php
+
+namespace {{ namespace }};
+
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\DB;
+
+class {{ class }} extends Model
+{
+ 
+ public function example(){
+    return; 
+ }
+}
